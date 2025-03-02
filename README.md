@@ -35,7 +35,7 @@ Next, download the `index.html` template file from the GitHub repository and sav
 Run the following command:
 
 ```bash
-sudo wget https://raw.githubusercontent.com/kotophalk/confluence-marzban-home/refs/heads/main/index.html -O /var/lib/marzban/templates/home/index.html
+sudo wget https://raw.githubusercontent.com/kotophalk/confluence-marzban-home/main/index.html -O /var/lib/marzban/templates/home/index.html
 ```
 
 This command will download the `index.html` file and place it in the `/var/lib/marzban/templates/home/` directory.
